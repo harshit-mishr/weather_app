@@ -1,0 +1,13 @@
+.box{
+  background-color: rgb(109, 107, 107);
+  margin: -0.5rem -0.5rem 0rem -0.5rem;
+  padding: 1rem;
+  padding-left: 4rem;
+}
+.icon{
+  font-size: 2rem;
+  color: beige;
+}
+.iconText{
+  font-size: 2rem;
+}
