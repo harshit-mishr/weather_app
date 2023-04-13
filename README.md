@@ -1,3 +1,1 @@
-# weather_app
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-h8wtja)
+A weather app is web application that provides real-time weather information for a particular location. The app uses data from weather APIs to display current and forecasted weather conditions, such as temperature, humidity, wind speed and direction and  Many weather apps also include additional features such as weather alerts, maps, and radar imagery. Users can input their current location or search for a specific location to get accurate and up-to-date weather information. Weather apps are useful for planning outdoor activities, travel, and daily routines, as well as for staying informed about severe weather conditions.
