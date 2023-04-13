@@ -11,4 +11,4 @@ Current Weather Conditions: Users can check the current weather conditions, such
 Location-Based Weather: The app uses location-based services to provide users with the weather conditions and forecast for their location  
 
 Technologies Used
-The weather app may use a combination of technologies such as HTML, CSS, JavaScript,React Js, and APIs to provide users with weather information and forecasts.
+The weather app may use a combination of technologies such as HTML, CSS, JavaScript, React Js, and APIs to provide users with weather information and forecasts.
